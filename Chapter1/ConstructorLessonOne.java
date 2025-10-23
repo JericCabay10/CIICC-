@@ -14,5 +14,25 @@ class Chicken {
     String name;
     public Chicken() {
 
+    }   
+}
+
+class Swan {
+    int numberEggs;
+    public static void main(String[] args) {
+        Swan mother = new Swan();
+        mother.numberEggs = 1; // writing Object fields
+        System.out.println("Swan number of eggs " + mother.numberEggs); // reading object field
+    }
+}
+
+class Name {
+    String first = "Jeric ";
+    String last = "Cabay";
+    String full = first + last;
+    public static void main(String[] args) {
+        Name name = new Name();
+        System.out.println("Full name: " + name.full);
+
     }
 }

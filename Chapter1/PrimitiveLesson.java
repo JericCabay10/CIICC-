@@ -13,5 +13,8 @@ public class PrimitiveLesson {
         char c = 32768;
         System.out.println(c);
 
+        int in = 100_000_000;
+        
+
     }
 }

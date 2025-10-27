@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OperatorLesson",
+            "request": "launch",
+            "mainClass": "Chapter2.OperatorLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "JavaOperators",
+            "request": "launch",
+            "mainClass": "JavaOperators",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
             "name": "MyDate",
             "request": "launch",
             "mainClass": "Task121.MyDate",

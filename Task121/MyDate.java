@@ -2,6 +2,9 @@ package Task121;
 
 public class MyDate {
     public static void main(String[] args) {
+
+        int true = 10;
+
         DateTask date1 = new DateTask();
         DateTask date2 = new DateTask();
         System.out.println(date1.toString());

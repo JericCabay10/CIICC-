@@ -1,0 +1,14 @@
+
+// import java.io.File;
+
+// public class EqualityLesson {
+//         public static void main(String[] args) {
+//             File x = new File());
+//             File y = new File();
+
+//             File z = x;
+//             System.out.println(x == y);
+//             System.out.println(z == z);
+
+//         }
+// }

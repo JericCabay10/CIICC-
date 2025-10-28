@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCaseLesson",
+            "request": "launch",
+            "mainClass": "SwitchCaseLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "IfStatementLesson",
+            "request": "launch",
+            "mainClass": "IfStatementLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "EqualityLesson",
+            "request": "launch",
+            "mainClass": "EqualityLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
             "name": "Task2",
             "request": "launch",
             "mainClass": "Chapter2.Task2",

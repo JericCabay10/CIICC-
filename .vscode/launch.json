@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task131",
+            "request": "launch",
+            "mainClass": "Task.Task131",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Task131",
+            "request": "launch",
+            "mainClass": "Task131",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "LoopLesson",
+            "request": "launch",
+            "mainClass": "LoopLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Laptop",
+            "request": "launch",
+            "mainClass": "machines.Laptop",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Song",
+            "request": "launch",
+            "mainClass": "radio.Song",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "ElectricCar",
+            "request": "launch",
+            "mainClass": "ElectricCar",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
             "name": "SwitchCaseLesson",
             "request": "launch",
             "mainClass": "SwitchCaseLesson",

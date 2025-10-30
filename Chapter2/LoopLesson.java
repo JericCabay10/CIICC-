@@ -38,14 +38,28 @@ public class LoopLesson {
         // }
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter length: ");
-        int c = input.nextInt();
+        // System.out.print("Enter length: ");
+        // int c = input.nextInt();
 
-        for(int a = 1; a < c; a++) {
-            for(int b = 1; b <= a; b++) {
-                System.out.print(a + " ");
+        // for(int a = 1; a < c; a++) {
+        //     for(int b = 1; b <= a; b++) {
+        //         System.out.print(a + " ");
+        //     }
+        //     System.out.println();
+        // }
+
+        String[] colors = {"black", "red", "pink", "yellow", "white", "blue"};
+
+        // for(String color : colors)
+        //     System.out.println("Color: " + color);
+        ROW: for(int p = 1; p < 10; p++) {
+        COL:    for(int n = 1; n < 10; n++) {
+                    if(n == 5)
+                        continue ROW;
+                        // break ROW;
+                    System.out.print(n*p + "\t");
+                }
+                System.out.println();
             }
-            System.out.println();
-        }
     }
 }

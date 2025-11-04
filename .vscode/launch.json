@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task5",
+            "request": "launch",
+            "mainClass": "Task5",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
             "name": "Task3",
             "request": "launch",
             "mainClass": "Task3",

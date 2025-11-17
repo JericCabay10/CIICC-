@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bunny",
+            "request": "launch",
+            "mainClass": "Chapter4.Bunny",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorLesson",
+            "request": "launch",
+            "mainClass": "Chapter4.ConstructorLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "OverloadingLesson",
+            "request": "launch",
+            "mainClass": "Chapter4.OverloadingLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "VarargsLesson",
+            "request": "launch",
+            "mainClass": "Chapter4.VarargsLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "ReturnTypeLesson",
+            "request": "launch",
+            "mainClass": "Chapter4.ReturnTypeLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "ClassZ",
+            "request": "launch",
+            "mainClass": "Chapter4.ClassZ",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "MoonFlower",
+            "request": "launch",
+            "mainClass": "otherFolder.MoonFlower",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "sunFlower",
+            "request": "launch",
+            "mainClass": "otherFolder.sunFlower",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "AccessModfierLesson",
+            "request": "launch",
+            "mainClass": "Chapter4.AccessModfierLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
             "name": "Task4",
             "request": "launch",
             "mainClass": "Task4",

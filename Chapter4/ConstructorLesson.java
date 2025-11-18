@@ -48,3 +48,23 @@ class Mouse {
     private int numWhiskers;
     private int weight;
 }
+
+class InitializionOrderSimple {
+    private String name = "Torchie";
+
+    {
+        System.out.println(name);
+    }
+
+    private static int COUNT = 0;
+
+    static { System.out.println(COUNT); }
+    static { COUNT += 1; System.out.println(COUNT); }
+    public InitializionOrderSimple() {}
+}
+
+//runtime 
+//static
+//instance
+//Constructor
+//SIC

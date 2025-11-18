@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lawner",
+            "request": "launch",
+            "mainClass": "LawnSharkApp.Lawner",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "EncapsulationLesson",
+            "request": "launch",
+            "mainClass": "Chapter4.EncapsulationLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
             "name": "Bunny",
             "request": "launch",
             "mainClass": "Chapter4.Bunny",

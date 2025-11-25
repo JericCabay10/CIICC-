@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task6",
+            "request": "launch",
+            "mainClass": "Task.Task6",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionLesson2",
+            "request": "launch",
+            "mainClass": "Chapter6.ExceptionLesson2",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionLesson",
+            "request": "launch",
+            "mainClass": "Chapter6.ExceptionLesson",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Climber",
+            "request": "launch",
+            "mainClass": "order.Climber",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Panda",
+            "request": "launch",
+            "mainClass": "order.Panda",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Create",
+            "request": "launch",
+            "mainClass": "order.Create",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Order",
+            "request": "launch",
+            "mainClass": "order.Order",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "OrderDriver",
+            "request": "launch",
+            "mainClass": "order.OrderDriver",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "OrderDriver",
+            "request": "launch",
+            "mainClass": "rope.OrderDriver",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilders",
+            "request": "launch",
+            "mainClass": "rope.StringBuilders",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Rope",
+            "request": "launch",
+            "mainClass": "rope.Rope",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
+            "name": "Chimp",
+            "request": "launch",
+            "mainClass": "rope.Chimp",
+            "projectName": "CIICC-_8af0acac"
+        },
+        {
+            "type": "java",
             "name": "SumAndAverage",
             "request": "launch",
             "mainClass": "Task.SumAndAverage",
